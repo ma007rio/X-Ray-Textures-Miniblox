@@ -4,6 +4,8 @@
 
 Back To Basics is a project dedicated to replacing the default textures of Miniblox. 
 
+There are some known issues right now with color and some animations, these will be fixed with time.
+
 Filename: spritesheet.png
 
 
