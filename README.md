@@ -1,2 +1,3 @@
-# Miniblox-Textures
-A repo for holding texture assets for Miniblox
+![Miniblox Textures Preview](b2b_logo.png)
+
+Miniblox-Textures is a collection of custom textures designed for use with Miniblox...
