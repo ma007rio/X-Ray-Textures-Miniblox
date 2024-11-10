@@ -17,7 +17,7 @@ There are some known issues right now with color and some animations, these will
 
 If you want to say **Thank You** and/or support `Back 2 Basics`:
 
-1. Add a [GitHub Star](https://github.com/heythereu/Miniblox-Textures/stargazers) to the project.
+Add a [GitHub Star](https://github.com/heythereu/Miniblox-Textures/stargazers) to the project.
 
 ## 💡 Credits
 
