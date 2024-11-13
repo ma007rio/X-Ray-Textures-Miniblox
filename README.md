@@ -19,7 +19,7 @@ You can install Back 2 Basics through an extension here, click which one you nee
 
 Chrome - COMING SOON
 
-[Firefox](https://github.com/heythereu/Miniblox-Textures/stargazers](https://addons.mozilla.org/en-US/firefox/addon/back-2-basics/))
+[Firefox](https://addons.mozilla.org/en-US/firefox/addon/back-2-basics/)
 
 Edge - COMING SOON
 
