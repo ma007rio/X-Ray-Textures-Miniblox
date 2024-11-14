@@ -21,7 +21,7 @@ Chrome - PENDING REVIEW
 
 [Firefox](https://addons.mozilla.org/en-US/firefox/addon/back-2-basics/)
 
-Edge - PENDING REVIEW
+Edge - IN REVIEW
 
 Opera - PENDING REVIEW
 
