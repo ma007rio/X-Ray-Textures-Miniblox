@@ -17,7 +17,7 @@ There are some known issues right now with color and some animations, these will
 
 You can install Back 2 Basics through an extension here, click which one you need:
 
-Chrome - PENDING REVIEW
+[Chrome](https://chromewebstore.google.com/detail/back-2-basics/ibofdlnmieodappidajpeamlpdagkjca)
 
 [Firefox](https://addons.mozilla.org/en-US/firefox/addon/back-2-basics/)
 
