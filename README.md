@@ -35,6 +35,8 @@ Add a [GitHub Star](https://github.com/heythereu/Miniblox-Textures/stargazers) t
 
 If you encounter any issues with the textures, please let me know on discord:
 
+KEEP IN MIND I DO NOT HAVE ANY ALTERNATIVE ACCOUNTS
+
 @hunterd123 // Nickname: heythereu
 
 Pack created by: heythereu
